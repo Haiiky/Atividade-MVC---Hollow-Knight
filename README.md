@@ -1,6 +1,6 @@
 #  Hollow Knight – Gerenciador de Personagens
 
-## 📖 Descrição do Projeto
+##  Descrição do Projeto
 Este projeto é uma aplicação web desenvolvida em **PHP** com arquitetura **MVC (Model–View–Controller)** e banco de dados **MySQL**.  
 O sistema tem como objetivo **gerenciar personagens do universo de Hollow Knight**, permitindo cadastrar, visualizar, editar e excluir informações sobre cada personagem, como nome, imagem e habilidades.
 
@@ -83,5 +83,5 @@ VALUES
 
 ---
 
-##  Autor
-Projeto desenvolvido como prática de programação web, inspirado no universo de *Hollow Knight*.
+##  Autores
+Kaique Malaquias e João Henrique 3B

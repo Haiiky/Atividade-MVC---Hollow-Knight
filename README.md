@@ -1,4 +1,4 @@
-# 🦋 Hollow Knight – Gerenciador de Personagens
+#  Hollow Knight – Gerenciador de Personagens
 
 ## 📖 Descrição do Projeto
 Este projeto é uma aplicação web desenvolvida em **PHP** com arquitetura **MVC (Model–View–Controller)** e banco de dados **MySQL**.  
@@ -8,15 +8,15 @@ O projeto serve como exemplo prático de uma aplicação CRUD (*Create, Read, Up
 
 ---
 
-## ⚙️ Configuração e Execução
+##  Configuração e Execução
 
-### 🧩 Pré-requisitos
+###  Pré-requisitos
 - Servidor local com suporte a **PHP** e **MySQL** (exemplo: [XAMPP](https://www.apachefriends.org/), [WAMP](https://www.wampserver.com/)).
 - Navegador web atualizado.
 
 ---
 
-### 🚀 Passos para Instalar e Executar
+###  Passos para Instalar e Executar
 
 1. Extraia a pasta `Hollow Knight` para o diretório do seu servidor local:  
    ```bash
@@ -51,7 +51,7 @@ Se tudo estiver configurado corretamente, o sistema exibirá a lista de personag
 
 ---
 
-## 🗄️ Estrutura do Banco de Dados
+##  Estrutura do Banco de Dados
 
 ```sql
 CREATE DATABASE IF NOT EXISTS hollow_knight;
@@ -75,7 +75,7 @@ VALUES
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **PHP** — Lógica de aplicação (Controllers, Models, Views)  
 - **MySQL** — Armazenamento e manipulação dos dados  
 - **HTML/CSS** — Estrutura e estilo das páginas  
@@ -83,5 +83,5 @@ VALUES
 
 ---
 
-## 💡 Autor
+##  Autor
 Projeto desenvolvido como prática de programação web, inspirado no universo de *Hollow Knight*.

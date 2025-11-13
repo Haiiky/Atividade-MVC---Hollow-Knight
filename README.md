@@ -84,4 +84,4 @@ VALUES
 ---
 
 ##  Autores
-Kaique Malaquias e João Henrique 3B
+Alvaro Pires, Kaique Malaquias e João Henrique 3B
